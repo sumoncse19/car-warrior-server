@@ -2,9 +2,9 @@
 
 ## Car Warrior [Live Site Link](https://bike-warrior-sumon6638.web.app/)
 
-## [Client Side Repository Link](https://github.com/programming-hero-web-course-4/niche-website-client-side-sumon6638-sm)
+## [Client Side Repository Link](https://github.com/sumon6638-sm/car-warrior)
 
-## [Server Side Repository Link](https://github.com/programming-hero-web-course-4/niche-website-server-side-sumon6638-sm)
+## [Server Side Repository Link](https://github.com/sumon6638-sm/car-warrior-server)
 
 ### In this website i use (Server Side):
 <p align="center">
